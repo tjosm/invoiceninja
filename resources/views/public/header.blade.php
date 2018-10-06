@@ -171,7 +171,7 @@
                         {!! link_to('#', 'Twitter', ['target' => '_blank', 'onclick' => 'openUrl("https://twitter.com/tjosm", "/footer/social/twitter")']) !!}
                     </li>
                     <li id="menu-item-33" class="menu-item-33">
-                        {!! link_to('#', 'GitHub', ['target' => '_blank', 'onclick' => 'openUrl("https://github.com/tjosm/invoice-ninja", "/footer/social/github")']) !!}
+                        {!! link_to('#', 'GitHub', ['target' => '_blank', 'onclick' => 'openUrl("https://github.com/tjosm", "/footer/social/github")']) !!}
                     </li>
                     <li id="menu-item-30" class="menu-item-30">
                         {!! link_to(https://vpsfix.com . '/contact', trans('texts.contact')) !!}
